@@ -50,6 +50,8 @@ public class ArrayLis {
 		}catch(Exception e)
 		{
 		System.out.println("Exception occured");
+
+		System.out.println("Line added for testing");
 		}
 		}
 		}
